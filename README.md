@@ -1,6 +1,6 @@
 # Notes app
 
-Aplicativo de notas em VueJS, Conhecimentos sobre o framework adquiridos:
+Aplicativo de notas em VueJS, conhecimentos sobre o framework adquiridos:
 
   - [x] Diretivas
   - [x] Renderização condicional
