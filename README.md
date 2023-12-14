@@ -16,4 +16,4 @@ npm run dev
 
 Outros estudos sobre VueJS:
 
-[Counter](https://github.com/lucasthalless/vuejs-counter)
+[Counter app](https://github.com/lucasthalless/vuejs-counter)
