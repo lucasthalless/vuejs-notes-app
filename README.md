@@ -9,5 +9,7 @@ Aplicativo de notas em VueJS, Conhecimentos sobre o framework adquiridos:
 
 Para rodar o aplicativo clone esse repositório e execute os comandos:
 
-> npm i
-> npm run dev
+```shell
+npm i
+npm run dev
+```
