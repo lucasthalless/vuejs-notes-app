@@ -13,3 +13,7 @@ Para rodar o aplicativo clone esse repositório e execute os comandos:
 npm i
 npm run dev
 ```
+
+Outros estudos sobre VueJS:
+
+[Counter](https://github.com/lucasthalless/vuejs-counter)
